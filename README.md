@@ -1,7 +1,7 @@
 # Cookie Clicker Helper Mod
 A helpful Cookie Clicker mod!
 
-The latest version supports toggling an autoclicker, toggling an auto-golden-and-wrath-cookie clicker, a reindeer clicker, and a wrinkler popper!
+The latest version supports toggling an autoclicker, toggling an auto-golden-and-wrath-cookie clicker, a reindeer clicker, and a wrinkler popper! **It also installs the CookiStocker auto-stockmarket mod.**
 
 Controls (in-game):
   
